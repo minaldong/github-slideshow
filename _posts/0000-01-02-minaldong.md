@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Everything I like is either illegal, immoral or fattening.
 Use the left arrow to go back!
